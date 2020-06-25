@@ -17,6 +17,8 @@
 ![1](https://user-images.githubusercontent.com/38155910/85751456-8fb74300-b745-11ea-90ef-f96116851ead.JPG)
 
 
-## 데이터와 회귀선의 그래프
+## 데이터와 회귀식의 그래프
 
 ![genetic gra](https://user-images.githubusercontent.com/38155910/85723854-9ab2a900-b72e-11ea-8d92-534672781601.JPG)
+
+## 회귀식 : y = 2x + 1
