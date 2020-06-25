@@ -8,4 +8,3 @@
 
 
 <h3>출력결과물</h3>
-![genetic](https://user-images.githubusercontent.com/38155910/85722749-91750c80-b72d-11ea-9a17-1166e4b3cff4.JPG)
