@@ -4,9 +4,8 @@
 
 
 <h3>사용한 데이터</h3>
-
-
-
+![표](https://user-images.githubusercontent.com/38155910/85722782-9a65de00-b72d-11ea-91c4-45a5796aa5db.JPG)
 
 
 <h3>출력결과물</h3>
+![genetic](https://user-images.githubusercontent.com/38155910/85722749-91750c80-b72d-11ea-9a17-1166e4b3cff4.JPG)
