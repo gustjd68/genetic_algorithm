@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Random;
 
+//arr 4 개 선택
 public class genetic_algo {
     public static int[] init_1(){
         Random r = new Random();
@@ -14,7 +15,7 @@ public class genetic_algo {
         }
         return arr;
     }
-
+//arr2 4개 선택
     public static int[] init_2() {
         Random r = new Random();
         int[] arr2 = new int[4];
@@ -26,7 +27,7 @@ public class genetic_algo {
         return arr2;
     }
 
-
+//mse
     public static int MSE(int w, int z ,int[] x, int[] y){
         int sum;
         int MSE = 0;
@@ -128,7 +129,7 @@ public class genetic_algo {
         int[] pp = init_1();
         int[] qq = init_2();
 
-
+//임의의 데이터 지정
         int[] x = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
         int[] y = {4,5,8,10,12,13,16,18,20,22,23,25,28,29,31,33,36,35,38,41};
 
